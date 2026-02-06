@@ -5,7 +5,7 @@ import TimelineCard from "./TimelineCard";
 const data = [
     "On seventh of August 2025, we first met at Leo’s artisan pizzeria. I saw you, felt that feeling again, and in that moment, I knew I wanted to be with you.",
     "I didn’t say anything that day, but you stayed in my head. The feeling didn’t fade — it only became clearer.",
-    "On 31st of August 2025, we had our first long call. We talked properly for the first time, and you expressed your feelings — not the way I told mine later, but it meant a lot to me.",
+    "On 31st of August 2025, we had our first long call. We talked properly for the first time, and I expressed mine feelings.",
     "On seventh of September, Even you told me that you like me.",
     "On eleventh of October, We went on our first date",
     "After We started dating, long distance struck.",
