@@ -17,14 +17,14 @@ const letterLines = [
     "but choosing you has never been hard.",
     "",
     "Thank you for being patient with me.",
-    "Thank you for understanding me.",
     "Thank you for being you.",
+    "Thank you for understanding me.",
     "",
     "Happy six months.",
-    "And happy Rose Day 🤍",
+    "And happy Rose Day ❤️",
     "",
     "Always yours,",
-    "— Me",
+    "— Abhiii",
 ];
 
 export default function LoveLetter() {
