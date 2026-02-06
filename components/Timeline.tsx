@@ -28,7 +28,7 @@ export default function Timeline() {
                     >
                         <TimelineCard
                             text={text}
-                            image={`/photos/${i + 1}.jpeg`}
+                            image={`/photos/${i + 1}.jpg`}
                             align={i % 2 === 0 ? "left" : "right"}
                         />
                     </div>
